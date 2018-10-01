@@ -9,8 +9,6 @@ Use the # key right behind the line you want to make a title, like this:
 
 \# Title!
 
-|
+Will make.... ->
 
-V
-
-# Title 
+# Title!
