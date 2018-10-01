@@ -6,3 +6,7 @@ I am making a test change!
 Here's an image:
 
 ![](hollowknight.jpg)
+
+And here's another, for testing:
+
+![](balrog.jpg)
